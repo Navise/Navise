@@ -46,5 +46,6 @@
 
 ## Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=NAVISE&show_icons=true&locale=en" alt="NAVISE" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NAVISE&show_icons=true&locale=en&layout=donut" alt="NAVISE" />
+<img src="https://github-readme-stats.vercel.app/api?username=NAVISE&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_border=true" alt="NAVISE" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NAVISE&show_icons=true&locale=en&layout=donut&theme=tokyonight&hide_border=true" alt="NAVISE" />
+
