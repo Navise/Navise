@@ -11,9 +11,7 @@
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/NAVISE/count.svg)
-
 <br>
-
 ## Tech Stack:
 
 **Front-end:**  
