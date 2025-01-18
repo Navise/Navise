@@ -1,4 +1,11 @@
-![Profile Image](images/profile.png)
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+  
+  Welcome to Navneethram V K's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 
 ## Connect with me:
 
